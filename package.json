@@ -1,14 +1,13 @@
 {
 	"name": "pfadispeicher",
 	"version": "0.1.0",
-	"description": "Boilerplate WordPress theme with Tailwind CSS.",
-	"author": "Jeffrey van Rossum",
+	"description": "Pfadi Speicher Theme",
+	"author": "Cyrill Kohler v/o Redox",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/username/pfadispeicher"
+		"url": "https://github.com/ckVendrix/pfadispeicher"
 	},
-	"theme_uri": "https://github.com/username/pfadispeicher",
-	"author_uri": "https://vanrossum.dev",
+	"theme_uri": "https://github.com/ckVendrix/pfadispeicher",
 	"text_domain": "pfadispeicher",
 	"license": "MIT",
 	"scripts": {

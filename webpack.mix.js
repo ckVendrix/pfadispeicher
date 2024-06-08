@@ -3,6 +3,7 @@ let path = require('path');
 
 mix.setResourceRoot('../');
 mix.setPublicPath(path.resolve('./'));
+mix.disableNotifications()
 
 mix.webpackConfig({
     watchOptions: { ignored: [

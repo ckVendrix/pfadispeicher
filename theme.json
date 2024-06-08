@@ -1,65 +1,41 @@
 {
   "version": 1,
   "settings": {
-    "layout": {
-      "contentSize": "960px",
-      "wideSize": "1280px"
-    },
     "color": {
       "palette": [
         {
-          "name": "Primary",
-          "slug": "primary",
-          "color": "#0EA5E9"
+          "name": "Red",
+          "slug": "red",
+          "color": "#F25F4C"
         },
         {
-          "name": "Secondary",
-          "slug": "secondary",
-          "color": "#14B8A6"
-        },
-        {
-          "name": "Dark",
-          "slug": "dark",
-          "color": "#1F2937"
-        },
-        {
-          "name": "Light",
-          "slug": "light",
-          "color": "#F9FAFB"
+          "name": "Yellow",
+          "slug": "yellow",
+          "color": "#F7B229"
         }
       ]
     },
     "typography": {
       "fontSizes": [
         {
-          "name": "Small",
-          "slug": "small",
-          "size": "0.875rem"
-        },
-        {
           "slug": "regular",
           "name": "Regular",
-          "size": "1.5rem"
+          "size": "16px"
         },
         {
           "slug": "large",
           "name": "Large",
-          "size": "1.125rem"
+          "size": "24px"
         },
         {
           "slug": "xl",
           "name": "XL",
-          "size": "1.25rem"
+          "size": "40px"
         },
         {
           "slug": "xxl",
           "name": "2XL",
-          "size": "1.5rem"
-        },
-        {
-          "slug": "xxxl",
-          "name": "3XL",
-          "size": "1.875rem"
+          "size": "64px"
         }
       ]
     }
