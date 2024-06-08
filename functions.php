@@ -16,8 +16,6 @@ function pfadispeicher_setup() {
 		'html5',
 		array(
 			'search-form',
-			'comment-form',
-			'comment-list',
 			'gallery',
 			'caption',
 		)
